@@ -1,6 +1,6 @@
 # Stock-Prediction-using-Twitter-Sentiment-Analysis
 
-![08162013_Twitter_Stocks_article-1.png](attachment:3242fa24-90f5-4f82-a1b3-48f525740257.png)
+![08162013_Twitter_Stocks_article-1.png](https://raw.githubusercontent.com/you915/Sentiment-Analysis-of-Twitter-Data-for-predicting-Apple-stock-price/master/Images/twitter-stock-market.jpg)
 
 The efficacy of using Generative Adversarial Networks (GANs) for stock price forecasting is still up for debate, but in recent years, GANs have shown promise in solving a number of challenging problems (such as producing realistic images and videos and converting text to images). In the past, this kind of model was mostly employed to create new images, texts, or videos—but not time series, particularly ones with as much volatility as stock prices. The issue is that because of market volatility and social influences on individual stock trends, stock prices are typically more difficult to predict.
 
